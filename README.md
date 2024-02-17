@@ -1,2 +1,0 @@
-# TestAngularUI
-Experimenting with Angular
